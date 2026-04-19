@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,45:0F172A,100:1F2937&height=220&section=header&text=Muhammad%20Alif%20Daniel&fontSize=44&fontColor=F8FAFC&fontAlignY=40&desc=Fullstack%20web%20developer%20building%20fast,%20scalable,%20and%20maintainable%20products%20with%20clean%20TypeScript.&descSize=18&descAlignY=62&descColor=CBD5E1"
-    alt="Muhammad Alif Daniel banner"
-    width="100%"
+    src="./hero-profile.svg"
+    alt="Muhammad Alif Daniel profile"
+    width="220"
   />
 </p>
 
