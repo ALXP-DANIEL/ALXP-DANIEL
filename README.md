@@ -1,18 +1,14 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-header-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/work-header-light.svg" /><img src="./assets/work-header-light.svg" width="100%" alt="Things I’ve built. Products, tools, and the occasional weekend rabbit hole." /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-header-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/work-header-light.svg" /><img src="./assets/work-header-light.svg" width="100%" alt="Things I’ve built — products, tools, and experiments." /></picture>
 
 <table>
 <tr>
-<td width="60%" valign="top"><a href="https://github.com/ALXP-DANIEL/QR-PIXEL"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/qr-pixel-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/qr-pixel-light.svg" /><img src="./assets/qr-pixel-light.svg" width="100%" alt="QR Pixel — Custom codes. Live previews. PNG / SVG exports. Next.js / TypeScript" /></picture></a></td>
-<td width="40%" valign="top"><a href="https://github.com/ALXP-DANIEL/METEO"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/meteo-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/meteo-light.svg" /><img src="./assets/meteo-light.svg" width="100%" alt="Meteo — Weather, at a glance. Next.js / TypeScript" /></picture></a></td>
+<td rowspan="2" width="40%"><a href="https://alifdaniel.dpdns.org"><img src="./assets/bento-portfolio.svg" width="100%" alt="Portfolio — interfaces, stories, and experiments. Open portfolio." /></a></td>
+<td colspan="2" width="60%"><a href="https://qr-pixel.alifdaniel.dpdns.org"><img src="./assets/bento-qr.svg" width="100%" alt="QR Pixel — create, customize, and export QR codes. Open live app." /></a></td>
 </tr>
 <tr>
-<td width="60%" valign="top"><a href="https://github.com/ALXP-DANIEL/PORTFOLIO"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/portfolio-light.svg" /><img src="./assets/portfolio-light.svg" width="100%" alt="Portfolio — Case studies, motion, and GitHub as a CMS. Next.js / GSAP" /></picture></a></td>
-<td width="40%" valign="top"><a href="https://github.com/ALXP-DANIEL/ANDROID_DEVICE_XIAOMI_PIANO"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/piano-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/piano-light.svg" /><img src="./assets/piano-light.svg" width="100%" alt="Xiaomi Pad 8 Pro — LineageOS / TWRP / OrangeFox Android / SM8750" /></picture></a></td>
+<td width="35%"><a href="https://meteo.alifdaniel.dpdns.org"><img src="./assets/bento-meteo.svg" width="100%" alt="Meteo — a forecast with atmosphere. Open live app." /></a></td>
+<td width="25%"><a href="https://github.com/ALXP-DANIEL/ANDROID_DEVICE_XIAOMI_PIANO"><img src="./assets/bento-android.svg" width="100%" alt="Xiaomi Pad 8 Pro — Android device trees. Open repository." /></a></td>
 </tr>
 </table>
 
-<br />
-
-`OFF THE CLOCK` — Self-hosted services, deployment experiments, and learning how to bring things back when they break.
-
-[More work & case studies ↗](https://alifdaniel.dpdns.org/work)
+[Explore the work ↗](https://alifdaniel.dpdns.org/work)
