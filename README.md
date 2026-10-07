@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/intro-v2-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/intro-v2-light.svg" /><img src="./assets/intro-v2-light.svg" width="100%" alt="In pursuit of innovation." /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/intro-v3-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/intro-v3-light.svg" /><img src="./assets/intro-v3-light.svg" width="100%" alt="In pursuit of innovation. Curious about everything behind it." /></picture>
 
 <a href="https://alifdaniel.dpdns.org/work"><img src="./assets/bento-projects.svg" width="100%" alt="Project bento: a tall Portfolio tile, wide QR Pixel tile, and smaller Meteo and Android tiles. Open project case studies." /></a>
 
