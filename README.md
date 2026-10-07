@@ -1,8 +1,8 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-header-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/work-header-light.svg" /><img src="./assets/work-header-light.svg" width="100%" alt="Building for the web. Curious about everything behind it. Clean interfaces, practical backends, and hands-on infrastructure." /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/intro-v2-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/intro-v2-light.svg" /><img src="./assets/intro-v2-light.svg" width="100%" alt="In pursuit of innovation." /></picture>
 
 <a href="https://alifdaniel.dpdns.org/work"><img src="./assets/bento-projects.svg" width="100%" alt="Project bento: a tall Portfolio tile, wide QR Pixel tile, and smaller Meteo and Android tiles. Open project case studies." /></a>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social-header-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social-header-light.svg" /><img src="./assets/social-header-light.svg" width="100%" alt="Find me elsewhere." /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social-header-v2-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social-header-v2-light.svg" /><img src="./assets/social-header-v2-light.svg" width="100%" alt="Find me elsewhere" /></picture>
 
 <p align="center">
 <a href="https://alifdaniel.dpdns.org" title="Website"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/brand-website-v2-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/brand-website-v2-light.svg" /><img src="./assets/brand-website-v2-light.svg" width="52" alt="Website" /></picture></a>
