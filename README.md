@@ -4,11 +4,11 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social-header-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social-header-light.svg" /><img src="./assets/social-header-light.svg" width="100%" alt="Find me elsewhere." /></picture>
 
-<p>
-<a href="https://alifdaniel.dpdns.org" title="Website"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social-website-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social-website-light.svg" /><img src="./assets/social-website-light.svg" width="52" alt="Website" /></picture></a>
+<p align="center">
+<a href="https://alifdaniel.dpdns.org" title="Website"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/brand-website-v2-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/brand-website-v2-light.svg" /><img src="./assets/brand-website-v2-light.svg" width="52" alt="Website" /></picture></a>
 <a href="https://github.com/ALXP-DANIEL" title="GitHub"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/brand-github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/brand-github-light.svg" /><img src="./assets/brand-github-light.svg" width="52" alt="GitHub" /></picture></a>
 <a href="https://www.linkedin.com/in/thealifhaker1/" title="LinkedIn"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/brand-linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/brand-linkedin-light.svg" /><img src="./assets/brand-linkedin-light.svg" width="52" alt="LinkedIn" /></picture></a>
 <a href="https://www.instagram.com/thealifhaker1/" title="Instagram"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/brand-instagram-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/brand-instagram-light.svg" /><img src="./assets/brand-instagram-light.svg" width="52" alt="Instagram" /></picture></a>
 <a href="https://x.com/thealifhaker1" title="X"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/brand-x-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/brand-x-light.svg" /><img src="./assets/brand-x-light.svg" width="52" alt="X" /></picture></a>
-<a href="mailto:alifdaniel.workspace@gmail.com" title="Email"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/brand-email-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/brand-email-light.svg" /><img src="./assets/brand-email-light.svg" width="52" alt="Email" /></picture></a>
+<a href="mailto:alifdaniel.workspace@gmail.com" title="Gmail"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/brand-email-v2-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/brand-email-v2-light.svg" /><img src="./assets/brand-email-v2-light.svg" width="52" alt="Gmail" /></picture></a>
 </p>
