@@ -1,6 +1,6 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/intro-v3-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/intro-v3-light.svg" /><img src="./assets/intro-v3-light.svg" width="100%" alt="In pursuit of innovation. Curious about everything behind it." /></picture>
 
-<a href="https://alifdaniel.dpdns.org/work"><img src="./assets/bento-projects-v2.svg" width="100%" alt="Project bento: a tall Portfolio tile, wide QR Pixel tile, and smaller Meteo and Android tiles. Open project case studies." /></a>
+<a href="https://alifdaniel.dpdns.org/work"><img src="./assets/bento-projects-v3.svg" width="100%" alt="Project bento: a tall Portfolio tile, wide QR Pixel tile, and smaller Meteo and Xiaomi Pad 8 Pro tiles. Open project case studies." /></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social-header-v2-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social-header-v2-light.svg" /><img src="./assets/social-header-v2-light.svg" width="100%" alt="Find me elsewhere" /></picture>
 
