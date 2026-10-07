@@ -1,30 +1,26 @@
 [
   {
-    "slug": "portfolio",
-    "repo": "PORTFOLIO",
-    "path": "metadata/picture/profile-cover-v2.jpeg",
-    "url": "https://raw.githubusercontent.com/ALXP-DANIEL/PORTFOLIO/main/metadata/picture/profile-cover-v2.jpeg",
-    "sha": "69c9dfba41a9a4740859ff363beb59ae67be13b0"
+    "repository": "PORTFOLIO",
+    "branch": "main",
+    "manifest": "https://raw.githubusercontent.com/ALXP-DANIEL/PORTFOLIO/main/project.json",
+    "image": "https://raw.githubusercontent.com/ALXP-DANIEL/PORTFOLIO/main/metadata/picture/profile-cover-v2.jpeg"
   },
   {
-    "slug": "qr",
-    "repo": "QR-PIXEL",
-    "path": "metadata/picture/profile-cover-v2.jpeg",
-    "url": "https://raw.githubusercontent.com/ALXP-DANIEL/QR-PIXEL/main/metadata/picture/profile-cover-v2.jpeg",
-    "sha": "5b575ea84f23640d0786786267108f426d35cbd9"
+    "repository": "QR-PIXEL",
+    "branch": "main",
+    "manifest": "https://raw.githubusercontent.com/ALXP-DANIEL/QR-PIXEL/main/project.json",
+    "image": "https://raw.githubusercontent.com/ALXP-DANIEL/QR-PIXEL/main/metadata/picture/profile-cover-v2.jpeg"
   },
   {
-    "slug": "meteo",
-    "repo": "METEO",
-    "path": "metadata/picture/profile-cover-v2.jpeg",
-    "url": "https://raw.githubusercontent.com/ALXP-DANIEL/METEO/master/metadata/picture/profile-cover-v2.jpeg",
-    "sha": "283520d6fbbe46b1cff7f90aba759b8215fb5dac"
+    "repository": "METEO",
+    "branch": "master",
+    "manifest": "https://raw.githubusercontent.com/ALXP-DANIEL/METEO/master/project.json",
+    "image": "https://raw.githubusercontent.com/ALXP-DANIEL/METEO/master/metadata/picture/profile-cover-v2.jpeg"
   },
   {
-    "slug": "android",
-    "repo": "ANDROID_DEVICE_XIAOMI_PIANO",
-    "path": "docs/profile-cover-v2.jpeg",
-    "url": "https://raw.githubusercontent.com/ALXP-DANIEL/ANDROID_DEVICE_XIAOMI_PIANO/main/docs/profile-cover-v2.jpeg",
-    "sha": "d748826b65c4c25f08822da7cfb012bd3bfa4d55"
+    "repository": "ANDROID_DEVICE_XIAOMI_PIANO",
+    "branch": "main",
+    "manifest": "https://raw.githubusercontent.com/ALXP-DANIEL/ANDROID_DEVICE_XIAOMI_PIANO/main/project.json",
+    "image": "https://raw.githubusercontent.com/ALXP-DANIEL/ANDROID_DEVICE_XIAOMI_PIANO/main/metadata/picture/profile-cover-v2.jpeg"
   }
 ]
