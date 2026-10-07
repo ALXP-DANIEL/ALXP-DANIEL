@@ -2,4 +2,13 @@
 
 <a href="https://alifdaniel.dpdns.org/work"><img src="./assets/bento-projects.svg" width="100%" alt="Project bento: a tall Portfolio tile, wide QR Pixel tile, and smaller Meteo and Android tiles. Open project case studies." /></a>
 
-[Portfolio ↗](https://alifdaniel.dpdns.org) · [QR Pixel ↗](https://qr-pixel.alifdaniel.dpdns.org) · [Meteo ↗](https://meteo.alifdaniel.dpdns.org) · [Android ↗](https://github.com/ALXP-DANIEL/ANDROID_DEVICE_XIAOMI_PIANO)
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social-header-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social-header-light.svg" /><img src="./assets/social-header-light.svg" width="100%" alt="Find me elsewhere." /></picture>
+
+<p>
+<a href="https://alifdaniel.dpdns.org"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social-website-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social-website-light.svg" /><img src="./assets/social-website-light.svg" width="120" alt="Website" /></picture></a>
+<a href="https://github.com/ALXP-DANIEL"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social-github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social-github-light.svg" /><img src="./assets/social-github-light.svg" width="120" alt="GitHub" /></picture></a>
+<a href="https://www.linkedin.com/in/thealifhaker1/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social-linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social-linkedin-light.svg" /><img src="./assets/social-linkedin-light.svg" width="120" alt="LinkedIn" /></picture></a>
+<a href="https://www.instagram.com/thealifhaker1/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social-instagram-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social-instagram-light.svg" /><img src="./assets/social-instagram-light.svg" width="120" alt="Instagram" /></picture></a>
+<a href="https://x.com/thealifhaker1"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social-x-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social-x-light.svg" /><img src="./assets/social-x-light.svg" width="120" alt="X" /></picture></a>
+<a href="mailto:alifdaniel.workspace@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social-email-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social-email-light.svg" /><img src="./assets/social-email-light.svg" width="120" alt="Email" /></picture></a>
+</p>
